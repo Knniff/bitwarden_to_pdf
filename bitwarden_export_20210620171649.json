@@ -1,0 +1,69 @@
+{
+  "encrypted": false,
+  "folders": [],
+  "items": [
+    {
+      "id": "b7446ca7-d0ad-4968-80aa-a1159ecf2292",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "name": "gerwhwerhserrga.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://gerwhwerhserrga.de"
+          }
+        ],
+        "username": "mail@example.de",
+        "password": "f1reqw7a984g1r6e8q5fwea4h65ear",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "4276783d-0924-4851-ad36-40c254a73985",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "name": "192.168.178.33",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://192.168.178.33/update-password"
+          }
+        ],
+        "username": "admin",
+        "password": "f1wef1ew89g16afwewsw16",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "da7856cb-c622-4178-bbe8-f4e5c86ec5cf",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "name": "accounts.test.com",
+      "notes": "mail@example.de",
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://accounts.test.com/register"
+          }
+        ],
+        "username": "Max",
+        "password": "1g25e6r1hs568wert4gfrew1h56rs",
+        "totp": null
+      },
+      "collectionIds": null
+    }
+  ]
+}
